@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ahmad-Faqehi
+- 👋 Hi, I’m Ahmad Faqehi
 - 👀 I’m interested in Web Developer 
 - 🌱 I’m currently learning Computer Sciences 
 - 📫 How to reach me:
