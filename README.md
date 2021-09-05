@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ahmad Faqehi
-- 👀 I’m interested in DevOps and Web Developer 
+- 👀 I’m interested in DevOps and Web Development 
 - 🌱 I’m have been graduated from Computer Sciences 
 - 📫 How to reach me:
 - Presonal Website: [iAhmad.info](https://iahmad.info)
