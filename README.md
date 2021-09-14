@@ -5,3 +5,7 @@
 - Presonal Website: [iAhmad.info](https://iahmad.info)
 - Twitter: [A_F775](https://twitter.com/A_F775)
 - Linkedin: [Ahmad-Faqehi](https://www.linkedin.com/in/ahmad-faqehi/)
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+
+[youtube]: https://youtube.com/codeSTACKr
