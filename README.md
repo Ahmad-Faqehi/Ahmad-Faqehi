@@ -1,7 +1,7 @@
 ### Hi there, I'm Ahmad Faqehi  👋
 
 [![Website](https://img.shields.io/website?label=iahmad.info&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://iahmad.info)
-[![Twitter Follow](https://img.shields.io/twitter/follow/A_F775?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%A_F775&screen_name=A_F775)
+[![Twitter Follow](https://img.shields.io/twitter/follow/A_F775?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2A_F775&screen_name=A_F775)
 
 ## I'm a DevOps and Web Developer !!
 
