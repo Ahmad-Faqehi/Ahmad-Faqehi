@@ -5,6 +5,7 @@
 
 ## I'm a DevOps and Web Developer !!
 
+- 👨‍💻 Computer Science graduate
 - 🎇 I'm Full Stack Web Developer
 - ♾ I became a DevOps Engineer
 - 🌱 I’m currently working to
